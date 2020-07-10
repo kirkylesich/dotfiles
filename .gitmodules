@@ -1,0 +1,3 @@
+[submodule "dwm_config"]
+	path = dwm_config
+	url = https://github.com/kirkylesich/dwm_config
